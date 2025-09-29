@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sara</h1>
+<h1>Hi there 👋, I'm Sara</h1>
 - 🌱 I’m currently learning Computer scientist at university.
 
 <h3 align="left">Connect with me:</h3>
