@@ -1,5 +1,8 @@
 <h1>Hi there 👋, I'm Sara</h1>
-- 🌱 I’m currently learning Computer scientist at university.
+
+
+🎓 Recent Generative Software Information Technology Assistant Graduate |Aspiring Software tester Frontend Developer
+
 
 
 <h3 align="left">Languages and Tools:</h3>
